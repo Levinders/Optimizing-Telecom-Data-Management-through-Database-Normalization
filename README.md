@@ -187,7 +187,7 @@ NB: The complete queries for each steps taken are on the sql file attached
 * Scalability: The new star schema design has made it easier to extend the database as the business continues to grow.
 * Enhanced Data Analysis: The new structure makes it easy to understand the db architecture, simplifying reporting and analytics, crucial for business intelligence.
 
-see attached photos (before: table & model, normalized tables model after)
+see attached photos (before: table & model, after: normalized tables model after)
 
 # Links & Others
 
